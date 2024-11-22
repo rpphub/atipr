@@ -1,2 +1,2 @@
 print("Hello word!")
-print("conflict this line")
+print("1. commit")
